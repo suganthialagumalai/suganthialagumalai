@@ -7,8 +7,8 @@
 - Machine Learning(Supervised & Unsupervised), 
 - Tableau(Data Visualization)
 
-
-                                                      SKILLS AND TECHNOLOGIES
+**
+                                                      SKILLS AND TECHNOLOGIES**
 
 
 ![image](https://user-images.githubusercontent.com/97347083/168718539-82bb442f-4256-4161-bece-b21e95e760f6.png)
