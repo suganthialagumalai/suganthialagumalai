@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suganthi
 - 👀 I’m interested in programming,teaching ...
-- passionate about ds Data Science, 
+- Passionate about ds Data Science, 
 - Deep Learning, 
 - Computer Vision 🔭, 
 - Natural Language Processing proficient on python Python(Programming Language), 
